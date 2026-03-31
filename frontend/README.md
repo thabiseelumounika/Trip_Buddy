@@ -1,6 +1,7 @@
-# 🌍 Tourist AI - Smart Travel Planner
+# 🌍 TripBuddy: Your AI Smart Travel Companion
 
-**Tourist AI** is a modern, AI-powered travel planning and booking platform designed to make your journey seamless, affordable, and personalized. Built with a stunning **Dark Glassmorphism** aesthetic, it provides a premium experience from initial research to final booking.
+
+**TripBuddy** is a modern, AI-powered travel planning and booking platform designed to make your journey seamless, affordable, and personalized. Built with a stunning **Dark Glassmorphism** aesthetic, it provides a premium experience from initial research to final booking.
 
 ## ✨ Key Features
 
